@@ -8,9 +8,7 @@ public class Cv {
 	private String competences;
 	private String attentes;
 	
-	public Cv(){
-		
-	}
+
 	public Cv(String nom, String prenom, String formation, String experience, String competences, String attentes) {
 		this.nom = nom;
 		this.prenom = prenom;
