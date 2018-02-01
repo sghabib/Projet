@@ -1,5 +1,5 @@
 
-public class cv {
+public class Cv {
 
 	private String nom;
 	private String prenom;
@@ -20,9 +20,9 @@ public class cv {
 	private static void afficher() {
 		System.out.println("Voici mon CV :\n");
 		System.out.println("Nom :\t\t\t" );
-		System.out.println("Prénom :\t\t\t");
+		System.out.println("PrÃ©nom :\t\t\t");
 		System.out.println("Formation :\t\t");
-		System.out.println("Expérience :\t\t");
-		System.out.println("Compétences :\t\t");
+		System.out.println("ExpÃ©rience :\t\t");
+		System.out.println("CompÃ©tences :\t\t");
 	}
 }
