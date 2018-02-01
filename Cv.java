@@ -15,6 +15,7 @@ public class Cv {
 		this.formation = formation;
 		this.experience = experience;
 		this.competences = competences;
+		this.attentes = attentes;
 	}
 	
 	public void afficher() {
