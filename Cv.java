@@ -1,5 +1,5 @@
 
-public class Cv {
+public class CV {
 
 	private String nom;
 	private String prenom;
@@ -8,7 +8,7 @@ public class Cv {
 	private String competences;
 	private String attentes;
 	
-	public Cv(String nom, String prenom, String formation, String experience, String competences, String attentes) {
+	public CV(String nom, String prenom, String formation, String experience, String competences, String attentes) {
 		this.nom = nom;
 		this.prenom = prenom;
 		this.formation = formation;
