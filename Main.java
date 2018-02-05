@@ -2,13 +2,9 @@
 public class Main {
 
 	public static void main(String[] args) {
-		affiche();
-	}
-	
-	private static void afficher() {
-		System.out.println("Voici mon CV :\n");
-		System.out.println("Nom :\t\tSalutation");
-		System.out.println("Pr�nom :");
+		CV cvEmile = new CV("Brunelle", "Émile", "Soutien informatique", "4 ans au soutien technique", "Windows Server, Dépannage de PC", "Bonne conditions");
+		
+		cvEmile.afficher();
 	}
 
 }
