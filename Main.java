@@ -12,9 +12,9 @@ public class Main {
 	
 	private static void createCV(){
 		
-		CV cvJane = new CV("Menassa", "Jane-Mary", "Diplôme d'étude secondaire", "Pas d'experience de travail", "Bonne élève, ponctuel, travaillante, professionel, sociable, dévouée", "Travailler dans un environement sain avec des collegues professionel.");
+		CV cvJane = new CV("Menassa", "Jane-Mary", "Diplï¿½me d'\u00e9tude secondaire", "Pas d'experience de travail", "Bonne \u00e9lï¿½ve, ponctuel, travaillante, professionel, sociable, d\u00e9vou\u00e9e", "Travailler dans un environement sain avec des collegues professionel.");
 		CV cvPhilippe = new CV("","","","","","");
-		CV cvEmile = new CV("Brunelle", "Émile", "Soutien informatique", "4 ans au soutien technique", "Windows Server, Dépannage de PC", "Bonnes conditions");
+		CV cvEmile = new CV("Brunelle", "\u00c9mile", "Soutien informatique", "4 ans au soutien technique", "Windows Server, D\u00e9pannage de PC", "Bonnes conditions");
 		
 	}
 
